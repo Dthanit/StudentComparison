@@ -76,7 +76,7 @@ public class StudentComparison
 			}
 		}
 		totalscore[1] = totalscore[1]/n;
-	    totalscore[2] = totalscore[2]/n;
+	        totalscore[2] = totalscore[2]/n;
 		System.out.println("\nMathstudent(x)/Comstudent(y)  = "+totalscore[1]+"/"+totalscore[2]);
 	}
 }
